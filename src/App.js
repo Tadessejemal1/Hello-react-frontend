@@ -1,3 +1,4 @@
+import React from 'react'
 import './App.css';
 import Greeting from './components/Greeting';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';

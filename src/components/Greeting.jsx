@@ -16,7 +16,7 @@ const Greeting = () => {
 
   return (
     <>
-      <h1 style={{ color: 'blue' }}>{message}</h1>
+      <h1>{message}</h1>
       <button type="button" onClick={handleClick}>
         Refresh
       </button>

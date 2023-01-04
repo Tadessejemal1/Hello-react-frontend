@@ -1,4 +1,6 @@
 # Hello-React-frontend-Project
+This application is developed using React and Redux.
+#### Link to Rails App [Hello-rails-backend](https://github.com/Tadessejemal1/Hello-rails-backend.git)
 
 # Description  
 ## Built With
